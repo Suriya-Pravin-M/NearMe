@@ -195,6 +195,17 @@ Porotta.html
 ```
 
 ## OUTPUT
+![alt text](Map.png)
+
+![alt text](Horbour.png)
+
+![alt text](School.png)
+
+![alt text](VOC_College.png)
+
+![alt text](Market.png)
+
+![alt text](Poratta.png)
 
 
 
